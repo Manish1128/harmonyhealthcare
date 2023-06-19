@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harmonyhealthcare/static/css/main.fa9e4a18.css",
+    "main.js": "/harmonyhealthcare/static/js/main.67b3f0c8.js",
+    "static/media/11.jpg": "/harmonyhealthcare/static/media/11.ee69767be1d9f95c66ac.jpg",
+    "static/media/background.jpg": "/harmonyhealthcare/static/media/background.6d6cec5eb36db57b8f08.jpg",
+    "static/media/16.png": "/harmonyhealthcare/static/media/16.4bb24a9c80c17434015f.png",
+    "static/media/3.png": "/harmonyhealthcare/static/media/3.e00bbd8ed019aea94224.png",
+    "static/media/4.png": "/harmonyhealthcare/static/media/4.a1c81287650fc53f5a71.png",
+    "static/media/13.png": "/harmonyhealthcare/static/media/13.ae507a6f495cffa32c4a.png",
+    "static/media/10.png": "/harmonyhealthcare/static/media/10.9743dbf5699064389ae7.png",
+    "static/media/6.png": "/harmonyhealthcare/static/media/6.d49a198c948efd56e90a.png",
+    "static/media/7.png": "/harmonyhealthcare/static/media/7.40e67367a0c625303dc8.png",
+    "index.html": "/harmonyhealthcare/index.html",
+    "main.fa9e4a18.css.map": "/harmonyhealthcare/static/css/main.fa9e4a18.css.map",
+    "main.67b3f0c8.js.map": "/harmonyhealthcare/static/js/main.67b3f0c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9e4a18.css",
+    "static/js/main.67b3f0c8.js"
+  ]
+}
